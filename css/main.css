@@ -1,0 +1,26 @@
+/* -----共通セクション----- */
+/* サイズ指定 */
+html {
+  width: 375px;
+  height: 812px;
+}
+
+/* ヘッダー */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* プロフィール */
+.main {
+  text-align: center;
+}
+
+/* フッター */
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
